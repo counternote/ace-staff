@@ -19,7 +19,9 @@ This can be done and even communicated easily as the FACE staff with the in-betw
 
 ## But More Ledger Lines?
 
-It is true that a four-line staff, all else being equal, will require the use of ledger lines before a five-line staff. This is a valid criticism. However, “I hate ledger lines” isn’t a criticism, it’s a preference — a perfectly valid one. A real criticism, one that some have raised, is the accessibility issues regarding ledger lines, issues shared with the status quo, just a little more so. After four ledger lines above or below, they do get much harder to read, but with the ACE staff and its new clefs, the composer can change the clef up or down an octave to keep the notes closer to the staff. And given the symmetry of the ledger lines above and below the staff, after a bit of familiarity, I personally find it easier to remember the positions because there is no more mental arithmetic for each different clef.
+It is true that a four-line staff, all else being equal, will require the use of ledger lines before a five-line staff. This is a valid criticism. However, “I hate ledger lines” isn’t a criticism, it’s a preference — a perfectly valid one. The real criticism, one that some have raised, is the accessibility issues regarding ledger lines, issues shared with the status quo, just a little more so.
+
+There are different things that could be done that might improve the readability of ledger lines, but that is beyond the scope of this proposal. After four ledger lines above or below, they do get much harder to read, but with the ACE staff and its new clefs, the composer can change the clef up or down an octave to keep the notes closer to the staff. And given the symmetry of the ledger lines above and below the staff, after a bit of familiarity, I personally find it easier to remember the positions because there is no more mental arithmetic for each different clef.
 
 ## But Four-Part Harmonies?
 
