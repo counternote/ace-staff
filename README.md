@@ -1,4 +1,4 @@
-# ACE Staff
+# The ACE Staff
 The simplest (and dumbest) improvement on traditional staff notation.
 
 The ACE staff came about from an observation while transcribing the grand staff to Counternote.  By removing the top line of the bass clef and the bottom line of the treble clef, the spaces in the new four-line staff spell ACE from low to high and the ledger lines between them also spell ACE from low to high. Like I said, dumbest.
