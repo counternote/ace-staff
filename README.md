@@ -7,7 +7,15 @@ However, this little change makes it so that both staffs are identical with rega
 
 ## New Clefs
 
-Because the treble and bass clef work out of the box, no new clefs for the octaves above and below middle C are necessary. But because of the symmetry of the staffs, there is room for a new C-clef without the baggage of the current movable C-clef for the center clef and a B-clef for a sub-bass clef and a D-clef for a super-treble clef.
+Because the treble and bass clef work out of the box, no new clefs for the octaves above and below middle C are necessary. But because of the symmetry of the staffs, there is room for a new C-clef without the baggage of the current movable C-clef for the center clef and a B-clef for a sub-bass clef and a D-clef for a whistle clef.
+
+## Known Issues
+
+Some things taken for granted within a five-line staff need to be tweaked:
+* the repeat sign needs a new glyph
+* the quarter note rest should be shifted up half a space
+* the sixteenth and sixty-fourth note rests should be shifted up a space
+* the 4 in time signatures is obscured by the lowest line on the staff when it’s the same size as the five-line staff version
 
 ## Why Does It Work?
 
@@ -21,7 +29,7 @@ This can be done and even communicated easily as the FACE staff with the in-betw
 
 It is true that a four-line staff, all else being equal, will require the use of ledger lines before a five-line staff. This is a valid criticism. However, “I hate ledger lines” isn’t a criticism, it’s a preference — a perfectly valid preference. The real criticism, one that some have raised, is the accessibility issues regarding ledger lines, issues shared with the status quo, just a little more so.
 
-There are different things that could be done that might improve the readability of ledger lines, but that is beyond the scope of this proposal. After four ledger lines above or below, they do get much harder to read, but with the ACE staff and its new clefs, the composer can change the clef up or down an octave to keep the notes closer to the staff. And given the symmetry of the ledger lines above and below the staff, after a bit of familiarity, it’s easier to remember the positions because there is no more mental arithmetic for each different clef. That’s the real win in using the ACE staff.
+There are different things that could be done that might improve the readability of ledger lines, but that is beyond the scope of this proposal. After three ledger lines above or below, they do get much harder to read, but with the ACE staff and its new clefs, the composer can change the clef up or down an octave to keep the notes closer to the staff. And given the symmetry of the ledger lines above and below the staff, after a bit of familiarity, it’s easier to remember the positions because there is no more mental arithmetic for each different clef. That’s the real win in using the ACE staff.
 
 ## But Four-Part Harmonies?
 
